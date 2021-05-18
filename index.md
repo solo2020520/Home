@@ -8,7 +8,7 @@
    <br><br>
 
 ## [下载地址](https://solo-1253252641.cos.ap-nanjing.myqcloud.com/app-solo_309.apk)<br>
-   [安卓版点我](https://solo-1253252641.cos.ap-nanjing.myqcloud.com/app-solo_309.apk)
+   [安卓版点我](https://wwa.lanzoux.com/iJTRLo5pfxc)
    <br><br>
 ### 如果喜欢请分享给身边的朋友
 ### Email：solo2020520@gmail.com
