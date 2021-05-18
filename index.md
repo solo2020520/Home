@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## 搜罗大全
 
-You can use the [editor on GitHub](https://github.com/solo2020520/solo-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solo2020520/solo-pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+收集国内外有意思的网站和App！
+<br>
+   【搜罗大全】是一款相当可靠好用的聚合型软件平台。软件为用户朋友们带来了丰富的破解版的应用内容，无论是想玩游戏、看电影、看小说、看动漫、找房子、学习等等都可以在这里找到各种优质的软件，真正实现一个手机app就可以实现几款软件的需求，。该款软件是从全网进行搜索，挑选用户评价最为优质的软件上架其中，每一款的软件都是破解的内容，用户可以轻松使用。在这里你可以依靠强大的云搜索功能，任何想看的影视都不会错过，各种超前点播、VIP付费等限制全部解除。
+   用户无需登录搜罗大全app破解版打开即可使用，喜欢的用户们快来下载吧！
+   [更多图文介绍：](http://www.32r.com/app/79523.html)
+<br>
+### 如果喜欢请分享给身边的朋友
+### Email：solo2020520@gmail.com
