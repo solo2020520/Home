@@ -21,9 +21,9 @@
 		var logo_app = "img/logo.png";//appLogo
 		var title_app = "搜罗大全";//app名称
 		var shouji_app = "img/app_sp.png";//电脑端app图片展示
-		var banb_app = "版本：3.0.9        ";//版本信息
+		var banb_app = "版本：3.0.9";//版本信息
 		var fabu_app = "发布时间：2021-05-19 ";//发布信息
-		var guanwang_app = "永久官网：solo6.xyz     ";//官网提示信息
+		var guanwang_app = "永久官网：solo6.xyz";//官网提示信息
 		var tishi_app = "⭐️系统浏览器打开下载！";//手机提示信息
 		var dibu_app = "Email：solo2020520@gmail.com";//底部版权信息
 		var ewm_app = "img/ewm.jpg";//app下载二维码地址
@@ -35,7 +35,7 @@
 		function win_app(){
 			win_width = $(window).width();
 			if(win_width<700){
-				$("body").html('<div id="boox_web"><div><div class="logo_web"><img src="'+logo_app+'"><p>'+title_app+'</p></div><a href="'+xiaz_app +'"><div class="xiazai_web">立即下载</div></a><div id="banben_web"><p class="text fs">'+banb_app+'</p><p class="text">'+fabu_app+'</p><p class="text">'+guanwang_app+'</p><p class="text">'+tishi_app+'</p></div></div><div class="fixed_web">'+dibu_app+'</div></div>');
+				$("body").html('<div id="boox_web"><div><div class="logo_web"><img src="'+logo_app+'"><p>'+title_app+'</p></div><a href="'+xiaz_app +'"><div class="xiazai_web">立即下载</div></a><div id="banben_web"><p class="text fs">'+banb_app+'&nbsp;&nbsp;&nbsp;&nbsp;</p><p class="text">'+fabu_app+'</p><p class="text">'+guanwang_app+'&nbsp;&nbsp;&nbsp;&nbsp;</p><p class="text">'+tishi_app+'</p></div></div><div class="fixed_web">'+dibu_app+'</div></div>');
 			}else{
 				$("body").html('<div id="boox_pc"><div class="left_pc animated bounceInLeft"><img src="'+shouji_app+'"></div><div class="right_pc animated bounceInRight"><div class="right_logo_pc"><img src="'+logo_app+'"><div><p class="right_title_pc">'+title_app+'</p><p class="right_span_pc">万能工具聚合、视频小说漫画一应俱全</p></div></div><div class="right_text_pc">'+text_app+'</div><div class="right_banb_pc">'+banb_app+'</div><div class="right_banb_pc">'+fabu_app+'</div><div class="right_banb_pc">'+dibu_app+'</div><div class="right_ewm_pc"><img src="'+ewm_app+'"><a href="'+xiaz_app +'"><div class="right_xiazai_pc">立即下载</div></a></div></div></div>');
 			}
